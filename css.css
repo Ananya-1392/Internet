@@ -5,20 +5,20 @@
     border: 1px solid blue;
 }
 .row1, .row2, .row3 {
-    margin-bottom: 20px;
+    padding-bottom: 20px;
 }
-.marginRight {
-    margin-right: 10px;
+.paddingRight {
+    padding-right: 10px;
 }
-.marginLeft {
-    margin-left: 20px;
+.paddingLeft {
+    padding-left: 20px;
 }
-.marginTop {
-    margin-top: 30px;
+.paddingTop {
+    padding-top: 30px;
 }
-.marginBottom {
-    margin-Bottom: 40px;
+.paddingBottom {
+    padding-Bottom: 40px;
 }
-.margin {
-    margin: 10px 20px;
+.padding {
+    padding: 10px 20px;
 }
