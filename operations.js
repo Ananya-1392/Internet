@@ -39,7 +39,7 @@ let obj = {
     salary: 1000,
     address: 'Bangaluru'
 }
-console.log(Object.keys(obj)); // [name, job, salary, address]
+console.log(Object.keys(obj)); // [name, job, salary, address] 
 let obj1 = {
     name: 'Mr X',
     job: 'Hacker',
